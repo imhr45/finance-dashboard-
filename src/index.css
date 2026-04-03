@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+
+
+button,
+select,
+a {
+  cursor: pointer;
+}
+
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+
+button:hover {
+  transform: scale(1.05);
+}
+
+
+button:active {
+  transform: scale(0.97);
+}
