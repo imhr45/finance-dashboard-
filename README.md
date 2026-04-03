@@ -6,7 +6,7 @@ A clean and interactive Finance Dashboard built with **React + Tailwind CSS** fo
 
 ## 🚀 Live Demo
 
-> Deploy on Vercel / Netlify and add link here
+>https://finance-dashboard-puce-six.vercel.app/
 
 ---
 
