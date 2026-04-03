@@ -65,7 +65,7 @@ const AddTransactionForm = ({
 
     if (editData) {
 
-      // ✅ UPDATE
+     
       setTransactions(prev =>
         prev.map(t =>
           t.id === editData.id
@@ -80,7 +80,7 @@ const AddTransactionForm = ({
 
     } else {
 
-      // ✅ ADD
+      
       const newTransaction = {
 
         id: uuidv4(),

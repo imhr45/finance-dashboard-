@@ -95,7 +95,6 @@ const TransactionTable = () => {
         </select>
       </div>
 
-      {/* ✅ Horizontal scroll on mobile */}
       <div className="overflow-x-auto">
         <table className="w-full border min-w-[500px]">
           <thead>
@@ -111,7 +110,7 @@ const TransactionTable = () => {
             {filteredData.length === 0 ? (
               <tr>
                 <td colSpan={role === "admin" ? 5 : 4} className="text-center p-6 text-gray-400">
-                  Koi transaction nahi mila 🙁
+                  
                 </td>
               </tr>
             ) : (
