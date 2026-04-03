@@ -33,7 +33,7 @@ A clean and interactive Finance Dashboard built with **React + Tailwind CSS** fo
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/finance-dashboard.git
+git clone https://github.com/imhr45/finance-dashboard-.git
 
 # 2. Go into the project folder
 cd finance-dashboard
