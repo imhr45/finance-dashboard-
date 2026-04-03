@@ -141,5 +141,7 @@ Switch between roles using the dropdown in the top-right corner:
 ## 👨‍💻 Author
 
 **Himanshu Ranjan**
+
 Frontend Developer Intern Applicant
+
 📧 imhr5.meet@gmail.com
